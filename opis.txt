@@ -1,0 +1,111 @@
+Ikonki linki:
+
+<i class="fi fi-brands-facebook"></i>  facebook
+<i class="fi fi-brands-pinterest"></i>  pinterest
+<i class="fi fi-brands-instagram"></i>  instagram
+
+
+Link do pinterest:
+https://pl.pinterest.com/wojtyczka_pracowniaprojektowa/?actingBusinessId=528610212421143013
+
+
+Czcionki:
+
+grupp: 
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gruppo&display=swap" rel="stylesheet">
+font-family: 'Gruppo', sans-serif;
+
+Italiana:
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Italiana&display=swap" rel="stylesheet">
+font-family: 'Italiana', sans-serif;
+
+
+About me/ o mnie:
+
+Wojtyczka Pracownia Projektowa
+została założona przez Małgorzatę Wojtyczkę. Swoją przygodę z architekturą wnętrz
+rozpoczęła od wyjazdu z rodzinnego Zakopanego na studia na Akademii Sztuk Pięknych we Wrocławiu. 
+Po pięciu latach nauki zakończonej obroną dyplomu, praktykach i pracy ze
+starszymi architektami, założyła własną pracownię i od tego czasu projektuje na własnych warunkach.
+
+Uszczęśliwia inwestorów autorskimi, funkcjonalnymi wnętrzami, skrojonymi pod
+indywidualne potrzeby. Każdy projekt traktuje jak nowe wyzwanie. Nie znosząc
+anonimowych, bezosobowych wnętrz, podchodzi do swojej pracy w bardzo osobisty,
+ambicjonalny sposób. Kluczowe znaczenie ma tutaj relacja z inwestorem, poznanie jego
+charakteru, przyzwyczajeń, upodobań. Wierzy, że tylko wtedy projekt będzie kompletny.
+Najbardziej upodobała sobie Bauhaus i Modernizm, jednak żaden inny styl nie jest jej straszny. 
+Lubi je ze sobą mieszać, tworząc nieoczywiste, oryginalne projekty. Inspiracje czerpie głównie 
+z podróży i nie boi się przemycać ich do projektów.
+
+
+Publikacje:
+
+Linki do publikacji - przypomnij mi tylko jak my dajemy w końcu publikacje. Na osobnej stronie? Czy tam gdzie o mnie? bo zapomniałam ;p
+
+Linki poniżej ponumerowane, odpowiadają im nr screenów ze stron magazynów. Chciałabym, żeby po najechaniu linka obok pokazywał się ten screen, a jak kogoś zainteresuje to sobie klika w link i przechodzi do artykułu.
+Tak jak u battik w sumie ;)
+i dajmy tak, że jest data publikacji, a obok link z nazwą portalu i tyle.
+
+image.png
+
+1. https://www.whitemad.pl/ma-90-m-kw-mieszkanie-na-warszawskiej-pradze/?fbclid=IwAR2-OCED7iV7IY8paGCx7p6tPLe3-fC_gFvNH_4MF_ttDm4IHlPwjlv3Bxw
+
+2. https://www.whitemad.pl/kolorowy-blizniak-we-wroclawiu-tak-urzadzili-swoja-przestrzen/?fbclid=IwAR2zA2JSvkI5ixytJY2tlj6HRes8G2gSPn_sBrg-LRpB5viw29ONOZ-otps
+
+3. https://www.santamargherita.net/magazine/en/wojtyczka-design-studio/?fbclid=IwAR3T1Mt0zICWvUjzMdvxOU0CIaIS9hTHQeVMXlsCQT3Av8RNQQDyZ3hiQjs
+
+4. https://label-magazine.com/wnetrza/artykuly/dom-na-obrzezach-wroclawia-w-tym-wnetrzu-caly-rok-panuje-wiosna
+
+5. https://plndesign.pl/wnetrza-100-metrowego-wroclawskiego-blizniaka-dla-pary-z-dwojka-kotow/?fbclid=IwAR3sUTYI4b440GXT1LTKZU1ZIPgWTXCXj42F-ARNFhRT4GNVGZTbhbyryDs
+
+6. https://label-magazine.com/wnetrza/artykuly/cieply-minimalizm-kawalerka-w-krakowie-z-sypialnia-ukryta-w-szafie
+
+7.https://www.whitemad.pl/najladniejsze-kawalerki-w-polsce-maja-mniej-niz-35-mkw-wybierz-najlepsza/?fbclid=IwAR3glDqAeYBIX4nTYmInaXydlMtMM4JVMMuV3-EjYLRHoriIW3hrBsxcohY
+
+8. https://plndesign.pl/45-metrowe-mieszkanie-w-inwestycji-bulwary-ksiazece-we-wroclawiu/?fbclid=IwAR2w7S2tG2nasSb9FBumY2w6KycLR-ol0BA-HMjd7ZaoDmMRe_BrOUKSqdk
+
+9. https://www.whitemad.pl/modern-classic-w-mieszkaniu-nad-odra-we-wroclawiu/?fbclid=IwAR0gcBRvXKrTStM4985G01-rZWeUICdstNrTCHvUOGP6_y7heOCwYMglW5Y
+
+10. https://www.elle.pl/decoration/artykul/nowoczesna-klasyka-w-mieszkaniu-nad-odra?fbclid=IwAR3pioe67-RkCe4NlI_bjD1jlRFZXroaYhU7OwMtZnkvYfGfKN6op3r4YgA#mieszkanie-nad-odra-projekt-malgorzata-wojtyczka-pracownia-wojtyczka
+
+
+
+podpięcie pod adres @:
+
+1. biuro@wojtyczka.pl
+2. malgorzata@wojtyczka.pl
+
+
+breakpointy;
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+
+
+Key	CSS Media Query	Applies
+none	none	< 568px
+sm	@media screen and (min-width: 35.5em)	≥568px
+md	@media screen and (min-width: 48em)	≥768px
+lg	@media screen and (min-width: 64em)	≥1024px
+xl	@media screen and (min-width: 80em)	≥1280px
+xxl	@media screen and (min-width: 120em)	≥1920px
+xxxl	@media screen and (min-width: 160em)	≥2560px
+x4k	@media screen and (min-width: 240em)	≥3840px
+
+
+
+

@@ -1,0 +1,49 @@
+*::after
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, 
+body{
+    height: 100svh;
+    // overflow-y: hidden;
+    // overflow-x: auto;
+	// overflow-y: hidden;
+    
+}
+section{
+    height: 100vh;
+}
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+input,
+textarea,
+button,
+select{
+    font-family: inherit;
+}
+
+ button{
+    border: none;
+    font-family: gr ;
+ }
+
+ textarea{
+    resize: vertical;
+ }
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
